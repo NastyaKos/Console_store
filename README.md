@@ -1,12 +1,12 @@
-####Description
+#### Description
 - Console version of webshop. It is possible to add and remove products, create orders, etc.
 
-####How to start
+#### How to start
 - Create database
 - Add credentials for database to local.properties
 - Start main class and choose option
 
-####Options
+#### Options
 1. Create product
 2. Create order
 3. Show products list
